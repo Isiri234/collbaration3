@@ -10,17 +10,27 @@ int main()
 }
 <<<<<<< HEAD
 
+<<<<<<< HEAD
 //punith message//
+=======
+//anoop message//
+>>>>>>> 16b5717774be935aba857bcb5d6c28afeb1d332f
 
 #include<stdio.h>
 int main()
 {
+<<<<<<< HEAD
 int a=10,b=20,c;
 printf("before swapping A=%d b=%d",a,b);
 c=a;
 a=b;
 b=c;
 printf("After swapping A=%d b=%d",a,b);
+=======
+int a=20,b=10,c;
+c=a/b;
+printf("result=%d",c);
+>>>>>>> 16b5717774be935aba857bcb5d6c28afeb1d332f
 }
 =======
 //isiri prg//
