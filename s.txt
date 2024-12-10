@@ -7,3 +7,14 @@ int main()
   c=a+b;
   printf("result=%d",c);
 }
+
+//anoop message//
+
+#include<stdio.h>
+int main()
+{
+int a=20,b=10,c;
+c=a/b;
+printf("result=%d",c);
+}
+
