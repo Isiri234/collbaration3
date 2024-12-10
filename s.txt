@@ -6,7 +6,9 @@ int main()
   int a=20,b=30,c;
   c=a+b;
   printf("result=%d",c);
+
 }
+<<<<<<< HEAD
 
 //anoop message//
 
@@ -17,4 +19,23 @@ int a=20,b=10,c;
 c=a/b;
 printf("result=%d",c);
 }
+=======
+//isiri prg//
+#include<stdio.h>
+int main()
+{
+int a=20,b=30,c;
+c=a-b;
+printf("result=%d",c);
+}
+//nayana's programme//
+#include<stdio.h>
+int main()
+{
+int a=10,b=10;
+int c;
+c=a+b;
+printf("multiplication %d",c);
+
+>>>>>>> bfdc6d665998d61540b24253c1d557736299711f
 
