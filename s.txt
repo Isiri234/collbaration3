@@ -6,4 +6,13 @@ int main()
   int a=20,b=30,c;
   c=a+b;
   printf("result=%d",c);
+
+}
+//isiri prg//
+#include<stdio.h>
+int main()
+{
+int a=20,b=30,c;
+c=a-b;
+printf("result=%d",c);
 }
